@@ -1,0 +1,2 @@
+Student-portal-demo
+A student portal demo showcases the features and functionally of a platform designed to streamline academic life for students.
